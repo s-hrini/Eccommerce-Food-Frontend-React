@@ -20,7 +20,7 @@ A modern and responsive e-commerce food delivery application built with React, f
 
 ## 🔗 Live Demo
 
-[Check out the live demo here]((https://682ebba02ee7d0b39dfec02f--aesthetic-longma-a78f45.netlify.app/))
+[Check out the live demo here](https://682ebba02ee7d0b39dfec02f--aesthetic-longma-a78f45.netlify.app/)
 
 ## 📬 Contact
 
